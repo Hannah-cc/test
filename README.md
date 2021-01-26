@@ -1,4 +1,4 @@
-This is my first C
+This is my first COMMIT.
 
 ----
 new commit
